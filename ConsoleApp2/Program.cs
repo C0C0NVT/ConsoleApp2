@@ -140,7 +140,7 @@
                     Console.WriteLine();
                 }
 
-                // This is where we perform the matrix addition!
+                // This is where we perform the matrix addition!!
                 //Iterate through each row
                 for (int x = 0; x < row; x++)
                 {
